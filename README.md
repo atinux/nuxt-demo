@@ -1,5 +1,8 @@
 # nuxt-frontconf-2019
-Nuxt.js Demo for FrontConf 2019
+
+Nuxt.js Demo for [FrontConf 2019](https://frontconf.com).
+
+[See demo](https://nuxt-frontconf.surge.sh).
 
 ## Setup
 
