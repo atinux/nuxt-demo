@@ -1,7 +1,7 @@
 {
-  "name": "nuxt-frontconf-2019",
+  "name": "nuxt-demo",
   "version": "1.0.0",
-  "description": "Nuxt Demo for FrontConf 2019",
+  "description": "Nuxt Demo for my 2019 talks",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",

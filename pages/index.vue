@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Hello FrontConf 2019!</h1>
+    <h1>Hello 👋</h1>
     <multiselect v-model="value" :options="options"></multiselect>
   </div>
 </template>
