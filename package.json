@@ -11,10 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "@nuxtjs/pwa": "^3.0.0-beta.14",
-    "nuxt-start": "^2.6.3"
+    "nuxt-start": "^2.7.1"
   },
   "devDependencies": {
-    "nuxt": "^2.6.3",
-    "vue-multiselect": "^2.1.4"
+    "nuxt": "^2.7.1",
+    "vue-multiselect": "^2.1.6"
   }
 }
